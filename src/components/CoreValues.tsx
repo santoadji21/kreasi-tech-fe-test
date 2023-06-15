@@ -1,5 +1,3 @@
-import React from 'react';
-
 import COREVALUE_IMG from '../assets/core-values.svg';
 
 export const CoreValues = () => {
